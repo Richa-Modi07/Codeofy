@@ -1,7 +1,7 @@
 import React from "react";
 function Home() {
     return (
-        <section className="text-white  bg-gradient-to-br from-blue-90 to-blue-100 ">
+        <section className="text-white  bg-linear-to-br from-blue-90 to-blue-100 ">
             <div className=" flex  justify-center items-center px-4 text-center p-5 " >
                 <div className="flex flex-col items-center justify-center ">
 

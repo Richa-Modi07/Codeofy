@@ -56,14 +56,3 @@ export default function AppRoutes() {
     </Suspense>
   );
 }
-
-// import { Outlet } from "react-router-dom";
-
-// function Services() {
-//   return (
-//     <div>
-//       <h1>Services Page</h1>
-//       <Outlet />
-//     </div>
-//   );
-// }
